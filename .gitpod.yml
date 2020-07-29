@@ -4,3 +4,7 @@ ports:
 tasks:
     - init: >
         npm i now -g
+
+vscode:
+  extensions:
+    - dsznajder.es7-react-js-snippets@2.8.2:Oslxvz4UUDeKPjbcLgPwdQ==
